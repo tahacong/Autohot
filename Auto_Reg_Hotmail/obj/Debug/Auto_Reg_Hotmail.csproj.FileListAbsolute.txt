@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\bin\Debug\Auto_Reg_Hotmail.exe.config
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\bin\Debug\Auto_Reg_Hotmail.exe
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\bin\Debug\Auto_Reg_Hotmail.pdb
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\obj\Debug\Auto_Reg_Hotmail.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\obj\Debug\Auto_Reg_Hotmail.Form1.resources
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\obj\Debug\Auto_Reg_Hotmail.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\obj\Debug\Auto_Reg_Hotmail.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\obj\Debug\Auto_Reg_Hotmail.exe
+C:\Users\Administrator\Desktop\Auto_Reg_Hotmail\Auto_Reg_Hotmail\obj\Debug\Auto_Reg_Hotmail.pdb
